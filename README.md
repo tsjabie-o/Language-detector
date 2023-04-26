@@ -1,4 +1,4 @@
-# Language detecter
+# Language detector
 
 This program guesses what language a text is written in.
 There is a database of texts and their languages included. This database is divided up in a training set and a test set. *write_profiles.py* uses the training set to create a models directory (already included in repo) with all n-grams (bi- and trigrams) of the training set corpus.
